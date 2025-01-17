@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deescent (Deep Singh)
 - 📚 I’m Currently in college and learning Python.
-- 🤓 https://beacons.ai/aboutdeepsingh
--  https://x.com/deepsin54506730/
+- ❌ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/deepsin54506730/)
 - 📫 How to reach me talkingto.deepsingh@gmail.com
 
 <!---
