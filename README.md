@@ -3,7 +3,7 @@
 - reach me at talkingto.deepsingh@gmail.com
 
 ## 🌐 Socials:
-
+[![Beacons.ai](https://img.shields.io/badge/Beacons.ai-%23000000.svg?style=for-the-badge&logo=Beacons&logoColor=white)](https://beacons.ai/aboutdeepsingh)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/deep.lsa)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/deepsin54506730/)
 [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?style=for-the-badge&logo=Google%20Developers&logoColor=white)](https://developers.google.com/profile/u/deescent)
